@@ -65,21 +65,6 @@ A MySQL-based Bank Management System using Hibernate ORM — enables efficient C
 
 A Spring Boot-based Employee Management System with REST APIs for managing employee records, departments and roles. Designed normalized MySQL schema with a Hibernate-based data access layer, streamlining CRUD operations across modules. Tested REST endpoints using Postman, ensuring reliable request handling and accurate JSON response structures.
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahuldhamole&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldhamole&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldhamole&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 # 🎯 What I Do
 
 ✔ Build Full Stack Java Web Applications
