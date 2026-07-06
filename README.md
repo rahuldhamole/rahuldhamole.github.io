@@ -97,7 +97,7 @@ A Spring Boot-based Employee Management System with REST APIs for managing emplo
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/rahul-dhamole">
+<a href="https://www.linkedin.com/in/rahul-dhamole-0072a221b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:rahuldhamole2001@gmail.com">
